@@ -4,7 +4,7 @@ import (
 	"log/slog"
 	"os"
 
-	"actions/app"
+	"github.com/lafetz/ci-demo/app"
 )
 
 // var version string
